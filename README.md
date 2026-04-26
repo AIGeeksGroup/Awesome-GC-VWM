@@ -1,6 +1,5 @@
 # Geometry-Consistent Video World Models: A Survey
 
-[![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://arxiv.org/abs/XXXX.XXXXX)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub stars](https://img.shields.io/github/stars/AIGeeksGroup/Awesome-GC-VWM?style=social)](https://github.com/AIGeeksGroup/Awesome-GC-VWM)
