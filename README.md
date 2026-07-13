@@ -8,7 +8,7 @@ A curated and continuously updated list of papers, datasets, and benchmarks for 
 
 > **Geometry-Consistent Video World Models: A Survey**
 >
-> Zida Yang\*, Yihao Lu\*, Liyang Wang\*, Zeyu Zhang\*<sup>†</sup>, Hao Tang<sup>‡</sup>
+> Zida Yang\*, Yihao Lu\*, Liyang Wang\*, [Zeyu Zhang](https://steve-zeyu-zhang.github.io/)\*<sup>†</sup>, [Ling Shao](https://ling-shao.github.io/), [Hao Tang](https://ha0tang.github.io/)<sup>‡</sup>
 >
 > \*Equal contribution. <sup>†</sup>Project lead. <sup>‡</sup>Corresponding author.
 >
