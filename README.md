@@ -12,7 +12,7 @@ A curated and continuously updated list of papers, datasets, and benchmarks for 
 >
 > \*Equal contribution. <sup>†</sup>Project lead. <sup>‡</sup>Corresponding author.
 >
-> ### [Paper](https://openreview.net/pdf?id=hbhuflul8L) | [HF Paper]()
+> ### [Paper](https://openreview.net/pdf?id=hbhuflul8L) | [Research Gate](https://www.researchgate.net/publication/410634546_Geometry-Consistent_Video_World_Models_A_Comprehensive_Guide)
 
 This survey will be regularly updated here. If you find this useful, please consider giving us a ⭐!
 
