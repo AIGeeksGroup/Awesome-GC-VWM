@@ -12,7 +12,7 @@ A curated and continuously updated list of papers, datasets, and benchmarks for 
 >
 > \*Equal contribution. <sup>†</sup>Project lead. <sup>‡</sup>Corresponding author.
 >
-> ### [Paper]() | [HF Paper]()
+> ### [Paper](https://openreview.net/pdf?id=hbhuflul8L) | [HF Paper]()
 
 This survey will be regularly updated here. If you find this useful, please consider giving us a ⭐!
 
