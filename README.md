@@ -1,8 +1,6 @@
-# Awesome Geometry-Consistent Video World Models
+# [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) Awesome Geometry-Consistent Video World Models
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/AIGeeksGroup/Awesome-GC-VWM?style=social)](https://github.com/AIGeeksGroup/Awesome-GC-VWM)
+<img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/4d6f0e82-43f3-4d90-af2d-9430ffa57724" />
 
 A curated and continuously updated list of papers, datasets, and benchmarks for **Geometry-Consistent Video World Models (GC-VWM)** — generative video models that preserve stable scene geometry across viewpoints, time horizons, and camera trajectories.
 
@@ -14,9 +12,12 @@ A curated and continuously updated list of papers, datasets, and benchmarks for 
 >
 > ### [Paper]() | [SSRN]()
 
-This survey will be regularly updated here. If you find this useful, please consider giving us a ⭐!
+> [!NOTE]
+> This survey will be regularly updated here. If you find this useful, please consider giving us a ⭐!
 
-<img width="6716" height="2971" alt="1" src="https://github.com/user-attachments/assets/082afe2a-5c03-492b-bf13-9eaea108ca6f" />
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/AIGeeksGroup/Awesome-GC-VWM?style=social)](https://github.com/AIGeeksGroup/Awesome-GC-VWM)
 
 ---
 
@@ -37,6 +38,8 @@ This survey will be regularly updated here. If you find this useful, please cons
 ---
 
 ## Overview
+
+<img width="6716" height="2971" alt="1" src="https://github.com/user-attachments/assets/082afe2a-5c03-492b-bf13-9eaea108ca6f" />
 
 Recent generative video models produce photorealistic clips but struggle to maintain consistent spatial structure under large camera motion or extended horizons. **GC-VWM** addresses this by integrating geometric reasoning — reprojection constraints, depth-aware warping, and spatial memory — into the generative process, enabling interactive exploration of generated worlds through precise camera control, reliable scene revisiting, and out-of-sight dynamics reasoning.
 
