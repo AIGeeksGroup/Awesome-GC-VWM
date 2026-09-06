@@ -1,4 +1,4 @@
-# Geometry-Consistent Video World Models: A Survey
+# Awesome Geometry-Consistent Video World Models
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
