@@ -1,4 +1,4 @@
-# Geometry-Consistent Video World Models: A Comprehensive Guide
+# Geometry-Consistent Video World Models: A Survey
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -6,13 +6,13 @@
 
 A curated and continuously updated list of papers, datasets, and benchmarks for **Geometry-Consistent Video World Models (GC-VWM)** — generative video models that preserve stable scene geometry across viewpoints, time horizons, and camera trajectories.
 
-> **Geometry-Consistent Video World Models: A Comprehensive Guide**
+> **Geometry-Consistent Video World Models: A Survey**
 >
 > [Zida Yang](https://scholar.google.com/citations?user=0XE_GW4AAAAJ&hl=en)\*, Yihao Lu\*, Liyang Wang\*, [Zeyu Zhang](https://steve-zeyu-zhang.github.io/)\*<sup>†</sup>, [Ling Shao](https://ling-shao.github.io/), [Hao Tang](https://ha0tang.github.io/)<sup>‡</sup>
 >
 > \*Equal contribution. <sup>†</sup>Project lead. <sup>‡</sup>Corresponding author.
 >
-> ### [Paper](https://openreview.net/pdf?id=hbhuflul8L) | [Research Gate](https://www.researchgate.net/publication/410634546_Geometry-Consistent_Video_World_Models_A_Comprehensive_Guide)
+> ### [Paper]() | [SSRN]()
 
 This survey will be regularly updated here. If you find this useful, please consider giving us a ⭐!
 
