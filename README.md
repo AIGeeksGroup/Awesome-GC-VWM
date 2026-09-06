@@ -16,6 +16,8 @@ A curated and continuously updated list of papers, datasets, and benchmarks for 
 
 This survey will be regularly updated here. If you find this useful, please consider giving us a ⭐!
 
+<img width="6716" height="2971" alt="1" src="https://github.com/user-attachments/assets/082afe2a-5c03-492b-bf13-9eaea108ca6f" />
+
 ---
 
 ## Table of Contents
