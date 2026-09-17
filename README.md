@@ -21,6 +21,18 @@ A curated and continuously updated list of papers, datasets, and benchmarks for 
 
 ---
 
+## Cite
+Please consider citing our repository if you find it useful.
+
+```
+@article{yang2026geometry,
+  title={Geometry-consistent Video World Models: A Survey},
+  author={Yang, Zida and Lu, Yihao and Wang, Liyang and Zhang, Zeyu and Shao, Ling and Tang, Hao},
+  journal={Available at SSRN 7420018},
+  year={2026}
+}
+```
+
 ## Table of Contents
 
 - [Overview](#overview)
