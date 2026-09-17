@@ -19,12 +19,14 @@ A curated and continuously updated list of papers, datasets, and benchmarks for 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub stars](https://img.shields.io/github/stars/AIGeeksGroup/Awesome-GC-VWM?style=social)](https://github.com/AIGeeksGroup/Awesome-GC-VWM)
 
+
 ---
 
-## Cite
-Please consider citing our repository if you find it useful.
+## Citation
 
-```
+If you find this repository or our survey useful, please consider citing:
+
+```bibtex
 @article{yang2026geometry,
   title={Geometry-consistent Video World Models: A Survey},
   author={Yang, Zida and Lu, Yihao and Wang, Liyang and Zhang, Zeyu and Shao, Ling and Tang, Hao},
@@ -32,6 +34,8 @@ Please consider citing our repository if you find it useful.
   year={2026}
 }
 ```
+---
+
 
 ## Table of Contents
 
@@ -273,21 +277,7 @@ GC-VWM
 | Cho *et al.* — Simulating the Visual World | 2025 | Visual AI |
 | **Ours** | **2026** | **GC-VWM** |
 
----
 
-## Citation
-
-If you find this repository or our survey useful, please consider citing:
-
-```bibtex
-@article{yang2026gcvwm,
-  title={Geometry-Consistent Video World Models: A Survey},
-  author={Yang, Zida and Lu, Yihao and Wang, Liyang and Zhang, Zeyu and Tang, Hao},
-  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
-  year={2026},
-  note={Under Review}
-}
-```
 
 ---
 
