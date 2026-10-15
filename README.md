@@ -263,6 +263,7 @@ GC-VWM
 | [StEvo-Bench](https://arxiv.org/abs/2603.03482) | 2026 | Video Gen. | State progress, physics | State evolution ≠ observation |
 | [LiveBench](https://arxiv.org/abs/2603.13215) | 2026 | Video Gen. | PSNR, SSIM, VQA-Acc | OOS dynamics & identity |
 | [Omni-WorldBench](https://arxiv.org/abs/2604.02677) | 2026 | Video Gen. | AgenticScore | Interactive camera & loop |
+| [WorldMemBench](https://arxiv.org/abs/2610.19063) | 2026 | Video World Models | Identity/appearance, object geometry, environment depth/reconstruction, dynamic state progression, camera RPE | Static memory retention and dynamic state evolution across repeated revisits |
 
 ---
 
